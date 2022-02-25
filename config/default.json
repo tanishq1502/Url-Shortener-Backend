@@ -1,0 +1,4 @@
+{
+    "mongouri":"mongodb+srv://Tanishq_206:<password>@cluster0.4polm.mongodb.net/URL?retryWrites=true&w=majority",
+    "baseURI" : "http://localhost:5000"
+}
